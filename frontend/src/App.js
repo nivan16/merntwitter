@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <body id="root"></body>
     </div>
   );
 }
